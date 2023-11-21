@@ -26,7 +26,11 @@
 
 1. [Genre](https://www.youtube.com/watch?v=qCfarOP_-dA)
 2. History
-3. Mode
+   - Reverence
+   - [Inference](https://orcid.org/0000-0003-4395-8182)
+   - Deliverence
+     
+4. Mode
    - Phrygian
    - [Flamenco](https://github.com/abikesa/darkchild/blob/main/wrappedup.pdf):: [Wrapped up, tangled up in you](https://www.youtube.com/watch?v=W0oU2ahAkGk)
    - p. 273-274: the elided ressolution of `ii - I` heightens the sensuous timbral and rhythmic effect (i.e., `bounce`) of the first guitar chord, prolonged in a syncopated strumming effect almost reminiscent of the `flamenco` style, and intensified also by the overall rhythmic impulse of the music
