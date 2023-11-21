@@ -30,3 +30,18 @@ The presence of the 11th (F) in the first guitar riff and the overall movement t
 Your attention to these specific chord voicings and inversions enhances the analysis of the harmonic structure and supports the interpretation of a Phrygian feel within the broader tonal context.
 
 If you have any more details to discuss or if there's another aspect of the music you'd like to explore, feel free to let me know!
+
+---
+
+Bob Marley's [We Jammin'](https://www.youtube.com/watch?v=oqVy6eRXc7Q): You're absolutely right, and I appreciate the clarification. The chord progression Bmin - Emin - GMaj - F#min, viewed from the perspective of F# minor, indeed aligns with the Phrygian mode.
+
+In F# Phrygian:
+
+1. **Bmin:** The iv (fourth) chord.
+2. **Emin:** The bVII (flatted seventh) chord.
+3. **GMaj:** The bII (flatted second) chord.
+4. **F#min:** The i (tonic) chord.
+
+This interpretation emphasizes F# as the tonic, and the progression captures the distinctive Phrygian sound with the minor second interval between F# and G. The use of the bII chord (GMaj) adds a characteristic Phrygian flavor to the sequence.
+
+Thank you for highlighting the Phrygian mode's relevance in this context. If you have any more questions or if there's anything else you'd like to discuss, feel free to let me know!
