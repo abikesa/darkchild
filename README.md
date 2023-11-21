@@ -27,6 +27,7 @@
 1. [Genre](https://www.youtube.com/watch?v=qCfarOP_-dA)
 2. History
    - Reverence
+     - Spiritual [mediums](https://en.wikipedia.org/wiki/Mediumship) are a parody of genius, which is essentially a [codification](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types) of all our ancestors
    - [Inference](https://orcid.org/0000-0003-4395-8182)
    - Deliverence
      - Martina Viljoen's `ideology-critical framework`
