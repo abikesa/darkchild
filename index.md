@@ -1,7 +1,7 @@
   > Can a [plugin](https://www.youtube.com/watch?v=dLSzn39ocNk) give you the warmth of the hardware?     
 It most certainly levels the playing field between Pro & Beginner!
                
-                                               1. Challenges
+                                         1. Challenges
                                                       \
                                          2. Skills -> 4. Interaction -> Leadership -> Dominance
                                                       /
