@@ -12,7 +12,7 @@ It most certainly levels the playing field between Pro & Beginner!
 - Hymn, Soul, Blues  
   
 ### Sing O Muse 4:: `11th, 13th`
-- [RnB](https://github.com/abikesa/darkchild/blob/main/README.md)
+- [RnB](https://github.com/abikesa/darkchild/tree/main)
   
 ## Apollo 5, 6:: `♭9,♯9,♯11,♭13`
 - Jazz 
